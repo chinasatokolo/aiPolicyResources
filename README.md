@@ -33,11 +33,11 @@ A curated list of resources for those conducting research on AI policy. List cre
 ## AI Energy Calculators and Trackers		
 * [AI Energy Consumption Calculator](https://aienergycalculator.com/)	
 * [CodeCarbon](https://github.com/mlco2/codecarbon)	
-* [Machine Learning CO2 Calculator](https://github.com/mlco2/codecarbon)	
+* [Machine Learning CO2 Calculator](https://mlco2.github.io/impact/)	
 * [Hugging Face AI Energy Score](https://huggingface.co/AIEnergyScore)		
 * [Green Algorithms](http://www.green-algorithms.org/)	
 * [Experiment Impact Tracker](https://github.com/Breakend/experiment-impact-tracker)		
-* [Carbontracker](https://carbontracker.org/)		
+* [Carbontracker](https://carbontracker.info/)		
 * [ML.ENERGY Leaderboard](https://ml.energy/leaderboard/)		
 
 
