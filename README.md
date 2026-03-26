@@ -1,5 +1,5 @@
 # AI Policy Resources
-A curated list of resources for those conducting research on AI policy. List created by [Chinasa T. Okolo, Ph.D.](http://www.chinasatokolo.com), a Computer Science PhD graduate from Cornell, UN AI policy specialist, and former fellow at the Brookings Institution, the world's leading think tank. 
+A curated list of resources for those conducting research on AI policy. List created by [Chinasa T. Okolo, Ph.D.](http://www.chinasatokolo.com), a Computer Science PhD graduate from Cornell, UN AI policy specialist, WBG-Africa Fellow, and former fellow at the Brookings Institution, the world's leading think tank. 
 
 
 ## AI Governance & Regulation Trackers 
